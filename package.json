@@ -1,0 +1,19 @@
+{
+  "name": "watch-youtube-together",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinvicto/watch-youtube-together.git"
+  },
+  "author": "Dinesh Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrinvicto/watch-youtube-together/issues"
+  },
+  "homepage": "https://github.com/mrinvicto/watch-youtube-together#readme"
+}
